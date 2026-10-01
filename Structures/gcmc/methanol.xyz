@@ -1,0 +1,5 @@
+3
+Methanol | element  x [Angstrom]  y [Angstrom]  z [Angstrom]  label  charge [e]  mass [g/mol]
+C       0.768854     0.013303     0.000000    CH3_alc    0.26500   15.03452
+O      -0.659064    -0.063831     0.000000      O_alc   -0.70000   15.99940
+H      -1.006820     0.814857     0.000000      H_alc    0.43500    1.00784

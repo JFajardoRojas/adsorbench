@@ -1,0 +1,5 @@
+3
+Carbon monoxide | element  x [Angstrom]  y [Angstrom]  z [Angstrom]  label  charge [e]  mass [g/mol]
+O      -0.483868     0.000000     0.000000       O_co   -0.20900   15.99940
+C       0.645132     0.000000     0.000000       C_co    1.04000   12.00000
+X       0.981132     0.000000     0.000000       M_co   -0.83100    0.00000

@@ -1,0 +1,5 @@
+3
+Nitrogen | element  x [Angstrom]  y [Angstrom]  z [Angstrom]  label  charge [e]  mass [g/mol]
+N       0.550000     0.000000     0.000000       N_n2   -0.48200   14.00674
+X       0.000000     0.000000     0.000000      N_com    0.96400    0.00000
+N      -0.550000     0.000000     0.000000       N_n2   -0.48200   14.00674

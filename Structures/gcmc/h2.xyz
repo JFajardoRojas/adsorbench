@@ -1,0 +1,5 @@
+3
+Hydrogen | element  x [Angstrom]  y [Angstrom]  z [Angstrom]  label  charge [e]  mass [g/mol]
+H       0.370000     0.000000     0.000000       H_h2    0.46800    1.00794
+X       0.000000     0.000000     0.000000      H_com   -0.93600    0.00000
+H      -0.370000     0.000000     0.000000       H_h2    0.46800    1.00794

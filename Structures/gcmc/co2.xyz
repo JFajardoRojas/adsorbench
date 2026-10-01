@@ -1,0 +1,5 @@
+3
+Carbon dioxide | element  x [Angstrom]  y [Angstrom]  z [Angstrom]  label  charge [e]  mass [g/mol]
+O       1.160000     0.000000     0.000000      O_co2   -0.35000   15.99940
+C       0.000000     0.000000     0.000000      C_co2    0.70000   12.00000
+O      -1.160000     0.000000     0.000000      O_co2   -0.35000   15.99940
