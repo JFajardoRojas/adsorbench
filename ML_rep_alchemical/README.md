@@ -99,3 +99,6 @@ addition.
 ## Author
 
     J. Fernando Fajardo-Rojas
+    Tatiane G. de Vilas
+    Ryther Anderson
+    Diego A. Gómez-Guadlrón
