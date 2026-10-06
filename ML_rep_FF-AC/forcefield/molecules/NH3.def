@@ -1,0 +1,27 @@
+# critical constants: Temperature [T], Pressure [Pa], and Acentric factor [-]
+406.2
+11350000.0
+0.253
+# Number Of Atoms
+5
+# Number Of Groups
+1
+# NH3-group
+rigid
+# number of atoms
+5
+# atomic positions
+0 N_nh3         0.00000000      0.00000000     10.00000000
+1 H_nh3        -0.20894753      0.94062333      9.67772912
+2 H_nh3        -0.89245952     -0.47031146     10.12089006
+3 H_nh3         0.47456253     -0.47031188      9.23456652
+4 M_nh3        -0.04352169      0.00000000      9.93287428
+# Chiral centers Bond  BondDipoles Bend  UrayBradley InvBend  Torsion Imp. Torsion Bond/Bond Stretch/Bend Bend/Bend Stretch/Torsion Bend/Torsion IntraVDW IntraCoulomb
+               0    4            0    0            0       0        0            0         0            0         0               0            0        0            0
+# Bond stretch: atom n1-n2, type, parameters
+0 1 RIGID_BOND
+0 2 RIGID_BOND
+0 3 RIGID_BOND
+0 4 RIGID_BOND
+# Number of config moves
+0
